@@ -1,1 +1,0 @@
-<iframe src="https://carlosvega.github.io/CovidTimeSeries/COVID_ts.html" width="100%" height="100%" style="display:block; margin: 0 auto;" frameBorder="0">&nbsp;</iframe>
